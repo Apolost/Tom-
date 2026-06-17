@@ -1,0 +1,6 @@
+{
+  "name": "AI Prompt Databáze",
+  "description": "Moderní a přehledná databáze promptů pro AI modely jako GPT, Claude, Gemini a další. Obsahuje možnost vyhledávání, filtrování, snadného kopírování, nahrávání vlastních promptů a administrátorský panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
